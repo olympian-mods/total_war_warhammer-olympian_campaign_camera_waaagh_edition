@@ -1,0 +1,16 @@
+TITLE
+-----
+
+Olympian Campaign Camera - WAAAGH Edition
+
+
+DESCRIPTION
+-----------
+
+This is the WAAAGH Edition of the [url=http://steamcommunity.com/sharedfiles/filedetails/?id=691037979]Olympian Campaign Camera[/url] mod. It has more extreme minimum and maximum height parameters.
+
+Supports "Standard" and "Classic" campaign camera settings.
+
+[b]Please make sure you only activate one campaign camera mod in the mod manager when starting the game.[/b]
+
+If you're looking for a battle camera mod I recommend [url=http://steamcommunity.com/sharedfiles/filedetails/?id=690476829]Better Battle Camera[/url] by kam2150 or [url=http://steamcommunity.com/sharedfiles/filedetails/?id=690896921]RSG Battle Camera[/url] by RoYaL sPaRtAn GuArD.
